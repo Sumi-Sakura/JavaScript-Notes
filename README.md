@@ -9,4 +9,10 @@
 如果喜欢，麻烦点个 star，谢谢:blush:
 
 ## 目录
-[通熟易懂的JavaScript - 声明提升（Hoisting）](https://github.com/Sumi-Sakura/JavaScript-Notes/issues/1)
+- [通熟易懂的JavaScript - 声明提升（Hoisting）](https://github.com/Sumi-Sakura/JavaScript-Notes/issues/1)
+
+## 待更新
+- 通熟易懂的JavaScript - 词法作用域以及作用域链
+- 通熟易懂的JavaScript - 执行环境（上下文）
+- 通熟易懂的JavaScript - 闭包
+- 通熟易懂的JavaScript - 引擎查询机制
