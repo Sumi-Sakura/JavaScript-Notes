@@ -6,7 +6,7 @@
 
 文笔不好，若有纰漏或不严谨之处欢迎指出
 
-谢谢:blush:
+如果喜欢，麻烦点个 star，谢谢:blush:
 
 ## 目录
 [通熟易懂的JavaScript - 声明提升（Hoisting）](https://github.com/Sumi-Sakura/JavaScript-Notes/issues/1)
