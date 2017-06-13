@@ -9,4 +9,4 @@
 谢谢:blush:
 
 ## 目录
-通熟易懂的JavaScript - 声明提升（hositing）
+[通熟易懂的JavaScript - 声明提升（Hoisting）][https://github.com/Sumi-Sakura/JavaScript-Notes/issues/1]
